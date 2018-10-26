@@ -10,5 +10,8 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  "test": {
+    "server_time": 1540534679577
   }
 }
